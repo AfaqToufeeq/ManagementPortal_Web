@@ -1,0 +1,40 @@
+.nav
+{
+    background-color: rgb(71, 70, 70);
+    border-bottom: 2px solid #17a2b8;
+    height: 70px;
+}
+
+.nav h5
+{
+    margin-top: 20px;
+    margin-left: 20px;
+    color: white;
+}
+
+.nav h6
+{
+    margin-top: 20px;
+    color: white;
+}
+
+.nav a
+{
+    color: white;
+    text-decoration: none;
+
+}
+
+.nav h5 :hover
+{
+    color: rgb(157, 157, 236);
+    text-decoration: none;
+    
+}
+
+.nav h6 :hover
+{
+    color: rgb(157, 157, 236);
+    text-decoration: none;
+    
+}
